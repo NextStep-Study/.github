@@ -21,6 +21,6 @@
 
 ### Reference
 
-- [Next Step GitHub Repo](https://github.com/slipp/jwp-book)
-- [3 ~ 6장 실습에서 사용할 저장소](https://github.com/slipp/web-application-server)
-- [6장 ~ 12장 실습에서 사용할 저장소](https://github.com/slipp/jwp-basic)
+- [Next Step 공식 GitHub Repo](https://github.com/slipp/jwp-book)
+- [3~6장 실습에서 사용할 저장소](https://github.com/slipp/web-application-server)
+- [6~12장 실습에서 사용할 저장소](https://github.com/slipp/jwp-basic)
